@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin"
+    },
+    {
+      "id": "2",
+      "username": "galaxy",
+      "password": "jaigurudev"
+    },
+    {
+      "id": "3",
+      "username": "tejas",
+      "password": "developer"
+    },
+    {
+      "id": "4",
+      "username": "bharat",
+      "password": "developer"
+    },
+    {
+      "id": "5",
+      "username": "rinesh",
+      "password": "developer"
+    },
+    {
+      "id": "6",
+      "username": "hariba",
+      "password": "client"
+    },
+    {
+      "id": "7",
+      "username": "dipak",
+      "password": "developer"
+    },
+    {
+      "id": "8",
+      "username": "1",
+      "password": "1"
+    }
+  ]
+}
